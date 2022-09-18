@@ -14,3 +14,10 @@ Build an app that is functionally similar to https://tribute-page.freecodecamp.r
 7. You should see an `a` element with a corresponding `id="tribute-link"`, which links to an outside site, that contains additional information about the subject of the tribute page. HINT: You must give your element an attribute of `target` and set it to `_blank` in order for your link to open in a new tab
 8. Your `#image` should use `max-width` and `height` properties to resize responsively, relative to the width of its parent element, without exceeding its original size
 9. Your `img` element should be centered within its parent element
+
+## Image source
+Source: <a href="https://nypost.com/2022/08/30/serena-williams-living-in-the-moment-in-final-us-open/">New York Post</a>
+
+## Author
+- <a href="https://github.com/StacyKioko">Stacy Kioko</a>
+- Email: stacy.mueke22@gmail.com
